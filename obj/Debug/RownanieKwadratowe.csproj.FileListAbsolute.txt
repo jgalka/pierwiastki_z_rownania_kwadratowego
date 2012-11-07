@@ -1,0 +1,6 @@
+D:\moje_projekty\visual_studio\ita104_cwiczenia\mod03\RownanieKwadratowe\RownanieKwadratowe\bin\Debug\RownanieKwadratowe.exe.config
+D:\moje_projekty\visual_studio\ita104_cwiczenia\mod03\RownanieKwadratowe\RownanieKwadratowe\bin\Debug\RownanieKwadratowe.exe
+D:\moje_projekty\visual_studio\ita104_cwiczenia\mod03\RownanieKwadratowe\RownanieKwadratowe\bin\Debug\RownanieKwadratowe.pdb
+D:\moje_projekty\visual_studio\ita104_cwiczenia\mod03\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\RownanieKwadratowe.csprojResolveAssemblyReference.cache
+D:\moje_projekty\visual_studio\ita104_cwiczenia\mod03\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\RownanieKwadratowe.exe
+D:\moje_projekty\visual_studio\ita104_cwiczenia\mod03\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\RownanieKwadratowe.pdb
